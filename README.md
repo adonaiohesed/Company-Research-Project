@@ -15,5 +15,7 @@ This project builds a database to help understand about companies related to com
 1. Job Description
 1. Salary, Welfare
 1. Organizational Structure
-  
-Every company has a history and its vision. The vision will guide the company's future and employee should share the vision for making a better company and a better world. There is why we are doing this project.
+
+Every company has a history and its vision. The vision will guide the company's future and employee should share the vision for making a better company and a better world. Before entering into the company, you should know what they are doing and why they are doing. It is like a marriage. If you don't know who your partner is, it is hard to be happy. Additionally, if you don't know well about your partner, your partner will choose another person who understands well about the partner and has the same vision. 
+
+There is why we are doing this project. You are deserved with a right choice and a company also will try it.
